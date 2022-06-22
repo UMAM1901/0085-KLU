@@ -1,0 +1,6 @@
+NAMA : KHOTIBUL UMAM
+NIM  : G.231.20.0085
+
+It's better than Lorem ipsum because it can produce text in many languages and in particular: 
+Chinese, Dutch, English, Finnish, French, German, Greek, Hebrew, Italian, Japanese, Latin, Polish, Portuguese, 
+Russian, Serbian and Spanish.
